@@ -248,8 +248,6 @@ function redefineVars(){
     pHeight = Math.floor(pHeight);
     pWidth = Math.floor(pWidth);
 
-    alert(pWidth + " + " + pHeight);
-
     rasterAnfang = rasterAnfang.editValue * 0.352778;
     rasterLinks = rasterLinks.editValue * 0.352778;
     rasterRechts = rasterRechts.editValue * 0.352778;
