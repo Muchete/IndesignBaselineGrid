@@ -11,11 +11,13 @@ There are two places you can install scripts in InDesign: The application folder
 ### Step 2: Run script by clicking on it
 
 This window should appear:
+
 <img width="525" alt="bildschirmfoto 2017-06-28 um 20 56 13" src="https://user-images.githubusercontent.com/29760709/27656363-f8fa4d04-5c48-11e7-80b3-ee4ebfa5f513.png">
 
 ### Step 3: Choose bottom margin
 
 After clicking the "OK" bottom, select your bottom margin.
+
 <img width="523" alt="bildschirmfoto 2017-06-28 um 20 56 37" src="https://user-images.githubusercontent.com/29760709/27656362-f8f78948-5c48-11e7-8dd3-4d9c3d7ec784.png">
 
 ### Done!
